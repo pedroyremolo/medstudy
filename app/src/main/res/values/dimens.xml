@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MARGIN DEFAULT -->
+    <dimen name="margin_micro">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_xlarge">26dp</dimen>
+    <dimen name="margin_super_large">32dp</dimen>
+    <dimen name="margin_super_xlarge">40dp</dimen>
+
+    <!-- PADDING DEFAULT -->
+    <dimen name="padding_micro">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_xlarge">26dp</dimen>
+    <dimen name="padding_super_large">32dp</dimen>
+    <dimen name="padding_super_xlarge">40dp</dimen>
+
+    <!-- MAIN OPTIONS -->
+    <dimen name="main_option_height_btn_others">40dp</dimen>
+    <dimen name="main_option_height_btn_level">60dp</dimen>
+    <dimen name="main_option_width_btn_level">65dp</dimen>
+
+    <!-- SCORE -->
+    <dimen name="score_height_btn_current_level">70dp</dimen>
+    <dimen name="score_height_status">10dp</dimen>
+    <dimen name="score_width_container">90dp</dimen>
+
+</resources>

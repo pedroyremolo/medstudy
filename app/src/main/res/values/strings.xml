@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MEDEDUC</string>
+
+    <!-- WIZARD -->
+    <string-array name="wizard_introduction_messages">
+        <item>Este é um jogo de perguntas para estudar para\nprovas de residências.</item>
+        <item>O jogo tem 5 níveis de dificuldade, 1 nível de\nnivelamento e 1 de reforço.</item>
+        <item>Terminamos o jogo quando todos os níveis\nestiverem sido concluídos.</item>
+    </string-array>
+
+    <string-array name="wizard_button_text">
+        <item>Próximo!</item>
+        <item>Entendi!</item>
+        <item>Começar!</item>
+    </string-array>
+
+    <!-- MAIN OPTIONS -->
+    <string name="main_options_label_leveling">Nivelamento</string>
+    <string name="main_options_label_reinforcement">Reforço</string>
+
+    <string name="main_options_label_level_one">Nível\n1</string>
+    <string name="main_options_label_level_two">Nível\n2</string>
+    <string name="main_options_label_level_three">Nível\n3</string>
+    <string name="main_options_label_level_four">Nível\n4</string>
+    <string name="main_options_label_level_five">Nível\n5</string>
+</resources>

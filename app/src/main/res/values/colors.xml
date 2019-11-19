@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MATERIAL DEFAULT COLORS -->
+    <color name="primary">#0FE71C</color>
+    <color name="primary_dark">#006F09</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- DEFAULT COLOR -->
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- BUTTON DEFAULT COLORS -->
+    <color name="btn_text_color_disabled">#efffffff</color>
+    <color name="btn_text_color_enabled">#FFF</color>
+    <color name="btn_background_disabled">#BDBDBD</color>
+    <color name="btn_background_enabled">#3DD842</color>
+    <color name="btn_ripple_color">#8e424242</color>
+
+    <!-- MAIN OPTIONS -->
+    <color name="main_options_btn_background_default">@color/btn_text_color_default</color>
+    <color name="main_options_btn_background_reinforcement">#F44336</color>
+    <color name="main_options_btn_background_ok">#4CAF50</color>
+
+    <!-- SCORE -->
+    <color name="score_status_default">#BDBDBD</color>
+    <color name="score_status_right">#4CAF50</color>
+    <color name="score_status_wrong">#F44336</color>
+
+
+    <!-- QUESTION -->
+    <color name="question_answer_default">#FFF</color>
+    <color name="question_answer_right">#4CAF50</color>
+    <color name="question_answer_wrong">#F44336</color>
+
+</resources>

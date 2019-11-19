@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_home">
+
+    <ImageView
+        android:id="@+id/imgAvatar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:contentDescription="Avatar"
+        android:src="@drawable/img_avatar_doctor" />
+
+    <br.com.ia.medstudy.widget.QuestionView
+        android:id="@+id/qtvQuestions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginStart="-50dp"
+        android:layout_marginTop="80dp"
+        android:layout_toEndOf="@+id/imgAvatar"
+        android:layout_toStartOf="@+id/scvScore" />
+
+    <br.com.ia.medstudy.widget.ScoreView
+        android:id="@+id/scvScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="@dimen/margin_normal"
+        android:layout_marginLeft="@dimen/padding_large"
+        android:layout_marginRight="@dimen/margin_normal" />
+
+</RelativeLayout>

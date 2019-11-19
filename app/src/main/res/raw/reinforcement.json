@@ -1,0 +1,692 @@
+{
+  "totalNumberQuestionsToShow": 10,
+  "levelInfo": [
+    {
+      "level": 1,
+      "numberOfQuestionsToShow": 10,
+      "minimumCorrectAnswers": 7,
+      "startPosition": 0,
+      "endPosition": 9,
+      "equipment": "equipment_1"
+    },
+    {
+      "level": 2,
+      "numberOfQuestionsToShow": 10,
+      "minimumCorrectAnswers": 7,
+      "startPosition": 10,
+      "endPosition": 19,
+      "equipment": "equipment_2"
+    },
+    {
+      "level": 3,
+      "numberOfQuestionsToShow": 10,
+      "minimumCorrectAnswers": 7,
+      "startPosition": 20,
+      "endPosition": 29,
+      "equipment": "equipment_3"
+    },
+    {
+      "level": 4,
+      "numberOfQuestionsToShow": 10,
+      "minimumCorrectAnswers": 7,
+      "startPosition": 30,
+      "endPosition": 39,
+      "equipment": "equipment_4"
+    },
+    {
+      "level": 5,
+      "numberOfQuestionsToShow": 10,
+      "minimumCorrectAnswers": 7,
+      "startPosition": 40,
+      "endPosition": 49,
+      "equipment": "equipment_5"
+    }
+  ],
+  "questions": [
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_REF_1 - 1) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 1,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_1 - 3) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_1 - 4) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 1,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_1 - 6) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_1 - 7) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 1,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_1 - 9) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "REF_1 - 10) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 1) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 2,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 3) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 4) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 2,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 6) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 7) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 2,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 9) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 2,
+      "text": "REF_2 - 10) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 1) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 3,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 3) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 4) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 3,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 6) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 7) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 3,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 9) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 3,
+      "text": "REF_3 - 10) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -1) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 4,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -3) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -4) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 4,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -6) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -7) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 4,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -9) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 4,
+      "text": "REF_4 -10) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 1) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 2,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 5,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 2,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 3) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 4) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 5,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 6) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 7) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 5,
+      "audio": "question.aac",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 9) Qual a parte do corpo está sendo mostrada na imagem abaixo?",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Tronco",
+        "Perna",
+        "Cabeça"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 5,
+      "text": "REF_5 - 10) Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?",
+      "options": [
+        "Cardiologista",
+        "Otorrinolaringologista",
+        "Psiquiatra"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    }
+  ]
+}

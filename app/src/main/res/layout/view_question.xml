@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/containerQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imgPrevious"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/margin_medium"
+            android:layout_toRightOf="@+id/containerQuestion"
+            android:background="#eb424242"
+            android:foreground="?selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_navigate_before"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_outgoing_bubble"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/padding_medium"
+            android:paddingLeft="@dimen/padding_normal"
+            android:paddingRight="@dimen/padding_normal"
+            android:paddingTop="@dimen/padding_medium">
+
+            <ImageView
+                android:id="@+id/imgAudioQuestion"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_hearing"
+                android:tint="@color/white"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/txtQuestion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="casual"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:text="Qual a especialidade médica estudada para se cuidar do ouvido,\ndo nariz, seios paranasais, faringe, laringe, cabeça e pescoço ?" />
+
+            <RadioGroup
+                android:id="@+id/rdgAnswers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/rdbAnswerOne"
+                    style="@style/Radio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Cardiologista" />
+
+                <RadioButton
+                    android:id="@+id/rdbAnswerTwo"
+                    style="@style/Radio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Otorrinolaringologista" />
+
+                <RadioButton
+                    android:id="@+id/rdbAnswerThree"
+                    style="@style/Radio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Psiquiatra" />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgCheckAnswer"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_medium"
+            android:layout_toRightOf="@+id/containerQuestion"
+            android:background="#eb424242"
+            android:foreground="?selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_navigate_next" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgQuestionComplement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/containerQuestion"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="@dimen/margin_large"
+        android:visibility="gone"
+        tools:src="@drawable/img_ossos_tronco"
+        tools:visibility="visible" />
+
+</RelativeLayout>

@@ -1,0 +1,98 @@
+{
+  "totalNumberQuestionsToShow": 10,
+  "levelInfo": [
+    {
+      "level": 1,
+      "numberOfQuestionsToShow": 2,
+      "minimumCorrectAnswers": 2,
+      "startPosition": 0,
+      "endPosition": 9,
+      "equipment": "equipment_1"
+    },
+    {
+      "level": 2,
+      "numberOfQuestionsToShow": 2,
+      "minimumCorrectAnswers": 2,
+      "startPosition": 10,
+      "endPosition": 19,
+      "equipment": "equipment_2"
+    },
+    {
+      "level": 3,
+      "numberOfQuestionsToShow": 2,
+      "minimumCorrectAnswers": 2,
+      "startPosition": 20,
+      "endPosition": 29,
+      "equipment": "equipment_3"
+    },
+    {
+      "level": 4,
+      "numberOfQuestionsToShow": 2,
+      "minimumCorrectAnswers": 2,
+      "startPosition": 30,
+      "endPosition": 39,
+      "equipment": "equipment_4"
+    },
+    {
+      "level": 5,
+      "numberOfQuestionsToShow": 2,
+      "minimumCorrectAnswers": 2,
+      "startPosition": 40,
+      "endPosition": 49,
+      "equipment": "equipment_5"
+    }
+  ],
+  "questions": [
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "1) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas \ntellus enim, pellentesque eu sagittis bibendum, aliquet posuere purus.",
+      "options": [
+        "Lorem Ipsum 1",
+        "Lorem Ipsum 2",
+        "Lorem Ipsum 3"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    },
+    {
+      "type": "AUDIO",
+      "level": 1,
+      "audio": "question.aac",
+      "options": [
+        "Lorem Ipsum 1",
+        "Lorem Ipsum 2",
+        "Lorem Ipsum 3"
+      ],
+      "rightOption": 1,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas \ntellus enim, pellentesque eu sagittis bibendum, aliquet posuere purus.",
+      "image": "img_ossos_tronco",
+      "options": [
+        "Lorem Ipsum",
+        "Lorem Ipsum",
+        "Lorem Ipsum"
+      ],
+      "rightOption": 0,
+      "textWrongOption": "Esta resposta está incorreta.",
+      "imageWrongOption": "img_error"
+    },
+    {
+      "type": "TEXT",
+      "level": 1,
+      "text": "4) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas \ntellus enim, pellentesque eu sagittis bibendum, aliquet posuere purus.",
+      "options": [
+        "Lorem Ipsum",
+        "Lorem Ipsum",
+        "Lorem Ipsum"
+      ],
+      "rightOption": 1,
+      "audioWrongOption": "wrong_answer.aac"
+    }
+  ]
+}
